@@ -19,11 +19,10 @@ WHEN the game is over
 THEN I can save my initials and my score
 
 Project pictures/websitelink are below!
+
 https://hunter-zandri.github.io/code-quiz004/
 
-![image](https://user-images.githubusercontent.com/86785668/136669763-302e9758-0d3e-4fa5-91d4-91a92894d6a3.png)
 
-![image](https://user-images.githubusercontent.com/86785668/136669805-ff2e5e06-b6b2-4d28-9a8e-d7fc92792f72.png)
 
 
 
