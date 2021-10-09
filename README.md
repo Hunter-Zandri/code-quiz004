@@ -23,8 +23,7 @@ Project pictures/websitelink are below!
 https://hunter-zandri.github.io/code-quiz004/
 
 
-![image](https://user-images.githubusercontent.com/86785668/136670162-2309ee2f-1a51-4364-8280-438037b3b5a8.png)
 
 
 
-
+![Screenshot 2021-10-09 143029](https://user-images.githubusercontent.com/86785668/136670200-17ce3ab3-99fc-48c6-838f-a97f0c030102.png)
